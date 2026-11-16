@@ -1,0 +1,22 @@
+[
+  {"id": 1, "sentiment": "Positive", "topics": ["Product"], "score": 5, "summary": "Áo khoác vải dày, đường may chắc chắn, form chuẩn như hình"},
+  {"id": 2, "sentiment": "Negative", "topics": ["Delivery", "Product"], "score": 2, "summary": "Giao hàng nhanh nhưng bình giữ nhiệt bị móp"},
+  {"id": 3, "sentiment": "Negative", "topics": ["System"], "score": 1, "summary": "App văng khi thanh toán bằng ví điện tử, mất mã giảm giá"},
+  {"id": 4, "sentiment": "Neutral", "topics": ["Product", "Delivery"], "score": 3, "summary": "Sản phẩm tạm ổn so với giá, giao hàng đúng dự kiến"},
+  {"id": 5, "sentiment": "Positive", "topics": ["Service", "Delivery", "Product"], "score": 5, "summary": "Tư vấn nhiệt tình, đóng gói cẩn thận, shipper thân thiện, giày êm"},
+  {"id": 6, "sentiment": "Negative", "topics": ["Service"], "score": 1, "summary": "Shop phản hồi chậm, trả lời cộc lốc, khách không quay lại"},
+  {"id": 7, "sentiment": "Negative", "topics": ["Delivery", "Product"], "score": 1, "summary": "Giao hàng chậm, nhận cục gạch thay vì tai nghe bluetooth"},
+  {"id": 8, "sentiment": "Neutral", "topics": ["System"], "score": 3, "summary": "Giao diện app mới khó tìm mục đơn mua lúc đầu, dần quen"},
+  {"id": 9, "sentiment": "Invalid", "topics": [], "score": null, "summary": "Invalid"},
+  {"id": 10, "sentiment": "Invalid", "topics": [], "score": null, "summary": "Invalid"},
+  {"id": 11, "sentiment": "Negative", "topics": ["Product", "Service"], "score": 1, "summary": "Nồi chiên không lên nguồn, tổng đài chậm xử lý đổi trả"},
+  {"id": 12, "sentiment": "Positive", "topics": ["Delivery"], "score": 5, "summary": "Shipper chu đáo, giao tận tay, giữ hàng khô ráo khi mưa"},
+  {"id": 13, "sentiment": "Negative", "topics": ["System", "Service"], "score": 1, "summary": "Hệ thống tự hủy đơn không báo, CSKH đổ lỗi do mạng"},
+  {"id": 14, "sentiment": "Positive", "topics": ["System", "Product"], "score": 5, "summary": "Tìm kiếm bằng hình ảnh chính xác, bàn phím chính hãng gõ tốt"},
+  {"id": 15, "sentiment": "Neutral", "topics": ["Service"], "score": 3, "summary": "Nhân viên hướng dẫn xuất hóa đơn đầy đủ, đang chờ kế toán"},
+  {"id": 16, "sentiment": "Negative", "topics": ["Delivery"], "score": 1, "summary": "Shipper không gọi, tự báo giao thành công, bỏ hàng ngoài cổng"},
+  {"id": 17, "sentiment": "Positive", "topics": ["Product"], "score": 5, "summary": "Kem dưỡng ẩm thấm nhanh, không bết, da dịu sau 3 ngày"},
+  {"id": 18, "sentiment": "Positive", "topics": ["Product", "Delivery"], "score": 4, "summary": "Sách in đẹp, nội dung hay nhưng giao trễ 2 ngày"},
+  {"id": 19, "sentiment": "Negative", "topics": ["System", "Delivery"], "score": 1, "summary": "App báo sai tồn kho, giao nhầm màu không hỏi ý kiến"},
+  {"id": 20, "sentiment": "Invalid", "topics": [], "score": null, "summary": "Invalid"}
+]
